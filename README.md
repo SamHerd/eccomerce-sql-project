@@ -8,7 +8,7 @@ The **Power BI dashboard** provides **visual insights** into customer interactio
 
 ---
 
-## 🛠**SQL Scripts Overview**
+## **SQL Scripts Overview**
 This project includes **several SQL scripts** that handle:  
 
 **Data Extraction & Cleaning**  
@@ -43,7 +43,7 @@ The **Power BI dashboard** transforms SQL query results into **interactive visua
 
 ---
 
-## 🔗 **Connect With Me!**  
+## **Connect With Me!**  
 **LinkedIn:** [linkedin.com/in/samherd](https://www.linkedin.com/in/samherd)  
 **GitHub:** [github.com/SamHerd](https://github.com/SamHerd)  
 
